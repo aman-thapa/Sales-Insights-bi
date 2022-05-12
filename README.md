@@ -16,7 +16,7 @@ Instead, he want to be able to look at the data and understand what’s going on
 
 ## Solution
 Create a simple and informative dashboard about the company sales.
-![Final Dashboard](https://github.com/aman-thapa/Sales-Insights-bi/blob/main/Dashboard%20Image.JPG)
+![Final Dashboard](https://github.com/aman-thapa/Sales-Insights-bi/blob/main/Images/Dashboard%20Image.JPG)
 
 I used SQL queries in **MySQL Workbench** to take a look into the data and **Power BI** for ETL and visualizations to create the insights.<br/>
 
